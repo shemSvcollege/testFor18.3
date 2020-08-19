@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/shemSvcollege/testFor18.3/static/css/main.5f361e03.chunk.css",
-    "main.js": "/shemSvcollege/testFor18.3/static/js/main.438d47ce.chunk.js",
-    "main.js.map": "/shemSvcollege/testFor18.3/static/js/main.438d47ce.chunk.js.map",
-    "runtime-main.js": "/shemSvcollege/testFor18.3/static/js/runtime-main.72871a4a.js",
-    "runtime-main.js.map": "/shemSvcollege/testFor18.3/static/js/runtime-main.72871a4a.js.map",
-    "static/js/2.cf4158a0.chunk.js": "/shemSvcollege/testFor18.3/static/js/2.cf4158a0.chunk.js",
-    "static/js/2.cf4158a0.chunk.js.map": "/shemSvcollege/testFor18.3/static/js/2.cf4158a0.chunk.js.map",
-    "index.html": "/shemSvcollege/testFor18.3/index.html",
-    "precache-manifest.86089b5e44b3ba08db00f7ef5c064760.js": "/shemSvcollege/testFor18.3/precache-manifest.86089b5e44b3ba08db00f7ef5c064760.js",
-    "service-worker.js": "/shemSvcollege/testFor18.3/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/shemSvcollege/testFor18.3/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.cf4158a0.chunk.js.LICENSE.txt": "/shemSvcollege/testFor18.3/static/js/2.cf4158a0.chunk.js.LICENSE.txt"
+    "main.css": "/testFor18.3/static/css/main.5f361e03.chunk.css",
+    "main.js": "/testFor18.3/static/js/main.45694256.chunk.js",
+    "main.js.map": "/testFor18.3/static/js/main.45694256.chunk.js.map",
+    "runtime-main.js": "/testFor18.3/static/js/runtime-main.e235b057.js",
+    "runtime-main.js.map": "/testFor18.3/static/js/runtime-main.e235b057.js.map",
+    "static/js/2.cf4158a0.chunk.js": "/testFor18.3/static/js/2.cf4158a0.chunk.js",
+    "static/js/2.cf4158a0.chunk.js.map": "/testFor18.3/static/js/2.cf4158a0.chunk.js.map",
+    "index.html": "/testFor18.3/index.html",
+    "precache-manifest.869c9533c8316260c809868989a17d90.js": "/testFor18.3/precache-manifest.869c9533c8316260c809868989a17d90.js",
+    "service-worker.js": "/testFor18.3/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/testFor18.3/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.cf4158a0.chunk.js.LICENSE.txt": "/testFor18.3/static/js/2.cf4158a0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.72871a4a.js",
+    "static/js/runtime-main.e235b057.js",
     "static/js/2.cf4158a0.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.438d47ce.chunk.js"
+    "static/js/main.45694256.chunk.js"
   ]
 }
